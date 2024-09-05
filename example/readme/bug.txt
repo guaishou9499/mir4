@@ -1,0 +1,4 @@
+-1 所有任务（不包阔委托），0当前任务，1可接任务 2 委托任务
+local list = quest_unit.list(quest_type)
+* 当前任务 失效
+
